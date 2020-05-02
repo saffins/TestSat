@@ -10,7 +10,7 @@
     <classes>
       
       <class name="com.juicePlusTest.TS.ContactUS_Test"/>
-      <class name="com.juicePlusTest.TS.InvalidIncompleteForm_Test"/>
+     <!--  <class name="com.juicePlusTest.TS.InvalidIncompleteForm_Test"/> -->
     </classes>
     
   
