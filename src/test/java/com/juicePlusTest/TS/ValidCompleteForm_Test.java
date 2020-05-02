@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import com.juicePlusTest.PO.ContactUsPO;
 import com.juicePlusTest.PO.DriverMain;
 
-public class ValidCompleteForm_TC extends DriverMain {
+public class ValidCompleteForm_Test extends DriverMain {
 
 	@Test
 	public void submitValidForm() {

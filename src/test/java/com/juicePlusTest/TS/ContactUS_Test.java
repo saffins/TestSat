@@ -12,7 +12,7 @@ import com.juicePlusTest.PO.AboutUsPO;
 import com.juicePlusTest.PO.ContactUsPO;
 import com.juicePlusTest.PO.DriverMain;
 
-public class ContactUS_TC extends DriverMain{
+public class ContactUS_Test extends DriverMain{
 	
 	@Test
 	public void tapAboutUS(){

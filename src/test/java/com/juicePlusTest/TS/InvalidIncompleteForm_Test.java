@@ -7,7 +7,7 @@ import com.juicePlusTest.PO.DriverMain;
 
 import junit.framework.Assert;
 
-public class InvalidIncompleteForm_TC extends DriverMain {
+public class InvalidIncompleteForm_Test extends DriverMain {
 
 	@Test
 	public void submitInvalidForm() {
